@@ -12,7 +12,7 @@ Our program will be able to emulate the functionality of a command shell. Our "r
 
 # DIAGRAM
 
-![UML Diagram](https://github.com/adel037/RShell/blob/master/images/Basic%20Command%20shell%20(new%20idea).png?raw=true)
+![UML Diagram](https://github.com/adel037/RShell/blob/master/images/RShell.png?raw=true)
 
 # CLASSES
 
