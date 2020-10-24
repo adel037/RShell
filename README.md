@@ -8,11 +8,11 @@ Team Members:
 
 # INTRODUCTION
 
-Our program will be able to emulate the functionality of a command shell. Our "rshell" program will be capable of take in command lines and arguments as inputs, parse the given input, and execute the commands taking into consideration the possible connectors that may come along with the command. Our program will be developed following a composite pattern. The input from the user will be analyzed and decomposed by a parsing function. As the input is decomposed, it will be transformed into Command or Connector classes that, through an interface, will form a composite object that will be able to be recursively executed.  
+Our program will be able to emulate the functionality of a command shell. Our "rshell" program will be capable of taking in command lines and arguments as inputs, parse the given input, and execute the commands. The program takes into consideration the possible connectors that may come along with the command. Our program will be developed following a composite pattern. The input from the user will be analyzed and decomposed by a parsing function. As the input is decomposed, it will be transformed into Command or Connector classes that, through an interface, will form a composite object that will be able to be recursively executed.  
 
 # DIAGRAM
 
-![UML Diagram](https://github.com/cs100/spring-2019-assignment-cs100_ja_assn1/blob/master/images/Basic%20Command%20shell%20(new%20idea).png?raw=true)
+![UML Diagram](https://github.com/adel037/RShell/blob/master/images/Basic%20Command%20shell%20(new%20idea).png?raw=true)
 
 # CLASSES
 
